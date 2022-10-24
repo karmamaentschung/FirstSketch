@@ -17,7 +17,7 @@
  **/
 
 let Increment = 1.5;  // Size of step increment 
-let Radius = 150;       // Radius of circle
+let Radius = 150;       // Radius of Quarter PI
 let ShapeRatio = 100;   // Shape scale ratio
 
 function setup() {
