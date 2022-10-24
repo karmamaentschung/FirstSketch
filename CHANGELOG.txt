@@ -1,0 +1,8 @@
+feae2a3f03e8afad49536506dca45ac5e6f0bb50 file corrections
+502a267d1f3d0a7f0017ce1d67b17c3887652957 delete changelog
+44140b1afcdd597dfb01ad3b15a692b121db8f08 value changes
+11e964de1bba4075ef91ce5e1be2cbd5239c24b4 add FirstSketch.js, index.html and style.css files
+0aa43d18ae4c3972c8c21f572b2233e76a341ec0 git add readme file
+47511326d48859403ea07a3d1941eca8ddb011ca file extension change
+f5f45a1daecdedba6b92c94e37a1117ccd4d6b01 Add FirstSketch Processing File
+5e30c60be44519187bae78b8a2026f2f9347afad Initial commit
